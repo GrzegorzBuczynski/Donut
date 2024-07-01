@@ -1,3 +1,5 @@
+// compile with flag -lm to link math liblary
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
@@ -49,6 +51,8 @@ int main() {
 }
 
 
+
+// rest not tested
 
 // #include <stdio.h>
 // #include <math.h>
